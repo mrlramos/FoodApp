@@ -1,0 +1,8 @@
+C:\Users\marlo\source\repos\BurguerProject\BurguerProject\BurguerProject.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\marlo\source\repos\BurguerProject\BurguerProject\BurguerProject.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\marlo\source\repos\BurguerProject\BurguerProject\BurguerProject.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\marlo\source\repos\BurguerProject\BurguerProject\BurguerProject.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\marlo\source\repos\BurguerProject\BurguerProject\BurguerProject.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\marlo\source\repos\BurguerProject\BurguerProject\BurguerProject.iOS\obj\iPhone\Debug\optimized\
+C:\Users\marlo\source\repos\BurguerProject\BurguerProject\BurguerProject.iOS\obj\iPhone\Debug\BurguerProject.iOS.csprojAssemblyReference.cache
+C:\Users\marlo\source\repos\BurguerProject\BurguerProject\BurguerProject.iOS\obj\iPhone\Debug\BurguerProject.iOS.csproj.CoreCompileInputs.cache
